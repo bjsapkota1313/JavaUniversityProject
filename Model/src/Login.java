@@ -20,7 +20,7 @@ public class Login {
 
         loggedUser= getLoggedUser(userName,password );
        // test();
-        giveFunctionalityTologgedUSer();
+        giveFunctionalityToLoggedUSer();
     }
     private void askLoginDetails (){
         System.out.print("Enter username: ");
@@ -42,7 +42,7 @@ public class Login {
         }
         return null;
     }
-    private void giveFunctionalityTologgedUSer()
+    private void giveFunctionalityToLoggedUSer()
     {
         Character  inputCharacter=' ';
         if (loggedUser== null){

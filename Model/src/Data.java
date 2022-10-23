@@ -72,10 +72,10 @@ public class Data {
     public Result resultOfLisaInPython= new Result(lisa,python,81);
     public Result resultOfLisaInPHP= new Result(lisa,PHP,72);
 
-    public Result resultOfJohnInJava= new Result(john,java,98);
-    public Result resultOfJohnInCsharp=new Result(john,cSharp,64);
-    public Result resultOfJohnInPython= new Result(john,python,81);
-    public Result resultOfJohnInPHP= new Result(john,PHP,72);
+    public Result resultOfJohnInJava= new Result(john,java,100);
+    public Result resultOfJohnInCsharp=new Result(john,cSharp,94);
+    public Result resultOfJohnInPython= new Result(john,python,99);
+    public Result resultOfJohnInPHP= new Result(john,PHP,93);
 
 
 

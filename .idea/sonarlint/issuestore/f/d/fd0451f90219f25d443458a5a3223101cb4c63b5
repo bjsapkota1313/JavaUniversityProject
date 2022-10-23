@@ -1,0 +1,174 @@
+
+c
+java:S1192"HDefine a constant instead of duplicating this literal "emma12" 10 times.(ÂŸ™ºıÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "IT-02-A" 10 times.(ÂŸ™ºıÿÿÿÿ
+c
+java:S1192)"HDefine a constant instead of duplicating this literal "david12" 5 times.(Š„ìøÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Garcia" 4 times.(Åšµ´øÿÿÿÿ
+k
+java:S1104"PMake emma a static final constant or non-public and provide accessors if needed.(ÂŸ™ºıÿÿÿÿ
+k
+java:S1104"PMake jack a static final constant or non-public and provide accessors if needed.(ç©¾øÿÿÿÿ
+n
+java:S1104"SMake michael a static final constant or non-public and provide accessors if needed.(Åšµ´øÿÿÿÿ
+k
+java:S1104 "PMake lisa a static final constant or non-public and provide accessors if needed.(¦Ÿú’ûÿÿÿÿ
+k
+java:S1104!"PMake john a static final constant or non-public and provide accessors if needed.(“¨ı€ıÿÿÿÿ
+l
+java:S1104""QMake linda a static final constant or non-public and provide accessors if needed.(ƒ“Ê°ùÿÿÿÿ
+n
+java:S1104#"SMake richard a static final constant or non-public and provide accessors if needed.(êüÜœûÿÿÿÿ
+f
+java:S1104$"PMake mark a static final constant or non-public and provide accessors if needed.(—Åÿƒ
+m
+java:S1104%"RMake debora a static final constant or non-public and provide accessors if needed.(±ÈØ½úÿÿÿÿ
+k
+java:S1104&"PMake rick a static final constant or non-public and provide accessors if needed.(¯ùºüÿÿÿÿ
+l
+java:S1104)"QMake david a static final constant or non-public and provide accessors if needed.(Š„ìøÿÿÿÿ
+g
+java:S1104*"QMake sophy a static final constant or non-public and provide accessors if needed.(óÚÀ›
+g
+java:S1104+"QMake james a static final constant or non-public and provide accessors if needed.(ŞÄŞş
+g
+java:S1104,"QMake susan a static final constant or non-public and provide accessors if needed.(˜„ã·
+f
+java:S1104-"PMake mary a static final constant or non-public and provide accessors if needed.(³•Ê
+f
+java:S1104/"PMake java a static final constant or non-public and provide accessors if needed.(°¾Ÿü
+h
+java:S11040"RMake cSharp a static final constant or non-public and provide accessors if needed.(İÏÖª
+h
+java:S11041"RMake python a static final constant or non-public and provide accessors if needed.(¥Á÷
+j
+java:S11042"OMake PHP a static final constant or non-public and provide accessors if needed.(âù˜äıÿÿÿÿ
+o
+java:S11043"TMake subjects a static final constant or non-public and provide accessors if needed.(’â­¶ÿÿÿÿÿ
+v
+java:S11047"`Make resultOfEmmaInCsharp a static final constant or non-public and provide accessors if needed.(Şûıã
+t
+java:S11048"^Make resultOfEmmaInJava a static final constant or non-public and provide accessors if needed.(˜áö
+v
+java:S11049"`Make resultOfEmmaInPython a static final constant or non-public and provide accessors if needed.(ºÀÇ˜
+x
+java:S1104:"]Make resultOfEmmaInPHP a static final constant or non-public and provide accessors if needed.(ïï°Òúÿÿÿÿ
+v
+java:S1104<"`Make resultOfJackInCsharp a static final constant or non-public and provide accessors if needed.(Ä¾Øİ
+t
+java:S1104="^Make resultOfJackInJava a static final constant or non-public and provide accessors if needed.(Îÿã
+{
+java:S1104>"`Make resultOfJackInPython a static final constant or non-public and provide accessors if needed.(²Ôí¥ûÿÿÿÿ
+s
+java:S1104?"]Make resultOfJackInPHP a static final constant or non-public and provide accessors if needed.(±°Œ¿
+y
+java:S1104A"cMake resultOfMichaelInCsharp a static final constant or non-public and provide accessors if needed.(“‘¶ö
+|
+java:S1104B"aMake resultOfMichaelInJava a static final constant or non-public and provide accessors if needed.(è‘ÔŞÿÿÿÿÿ
+x
+java:S1104C"cMake resultOfMichaelInPython a static final constant or non-public and provide accessors if needed.(âõ„*
+{
+java:S1104D"`Make resultOfMichaelInPHP a static final constant or non-public and provide accessors if needed.(¨ªƒëüÿÿÿÿ
+y
+java:S1104F"^Make resultOfLisaInJava a static final constant or non-public and provide accessors if needed.(¦éÿ¾ûÿÿÿÿ
+v
+java:S1104G"`Make resultOfLisaInCsharp a static final constant or non-public and provide accessors if needed.(ª™ä‘
+v
+java:S1104H"`Make resultOfLisaInPython a static final constant or non-public and provide accessors if needed.(·³éĞ
+s
+java:S1104I"]Make resultOfLisaInPHP a static final constant or non-public and provide accessors if needed.(½¯í‡
+t
+java:S1104K"^Make resultOfJohnInJava a static final constant or non-public and provide accessors if needed.(Ñßõ
+{
+java:S1104L"`Make resultOfJohnInCsharp a static final constant or non-public and provide accessors if needed.(Ä²öûÿÿÿÿ
+v
+java:S1104M"`Make resultOfJohnInPython a static final constant or non-public and provide accessors if needed.(•›¼
+x
+java:S1104N"]Make resultOfJohnInPHP a static final constant or non-public and provide accessors if needed.(¦±¹øøÿÿÿÿ
+s
+java:S1104R"XMake reportOfEmma a static final constant or non-public and provide accessors if needed.(ÿš‘ºøÿÿÿÿ
+n
+java:S1104S"XMake reportOfJack a static final constant or non-public and provide accessors if needed.(«»Ê˜
+v
+java:S1104T"[Make reportOfMichael a static final constant or non-public and provide accessors if needed.(Û¥Šîùÿÿÿÿ
+s
+java:S1104U"XMake reportOfLisa a static final constant or non-public and provide accessors if needed.(™‰ÙÎøÿÿÿÿ
+s
+java:S1104V"XMake reportOfJohn a static final constant or non-public and provide accessors if needed.(ïÒøùÿÿÿÿ
+E
+java:S1444"*Make this "public static emma" field final(ÂŸ™ºıÿÿÿÿ
+E
+java:S1444"*Make this "public static jack" field final(ç©¾øÿÿÿÿ
+H
+java:S1444"-Make this "public static michael" field final(Åšµ´øÿÿÿÿ
+E
+java:S1444 "*Make this "public static lisa" field final(¦Ÿú’ûÿÿÿÿ
+E
+java:S1444!"*Make this "public static john" field final(“¨ı€ıÿÿÿÿ
+F
+java:S1444""+Make this "public static linda" field final(ƒ“Ê°ùÿÿÿÿ
+H
+java:S1444#"-Make this "public static richard" field final(êüÜœûÿÿÿÿ
+@
+java:S1444$"*Make this "public static mark" field final(—Åÿƒ
+G
+java:S1444%",Make this "public static debora" field final(±ÈØ½úÿÿÿÿ
+E
+java:S1444&"*Make this "public static rick" field final(¯ùºüÿÿÿÿ
+F
+java:S1444)"+Make this "public static david" field final(Š„ìøÿÿÿÿ
+A
+java:S1444*"+Make this "public static sophy" field final(óÚÀ›
+A
+java:S1444+"+Make this "public static james" field final(ŞÄŞş
+A
+java:S1444,"+Make this "public static susan" field final(˜„ã·
+@
+java:S1444-"*Make this "public static mary" field final(³•Ê
+@
+java:S1444/"*Make this "public static java" field final(°¾Ÿü
+B
+java:S14440",Make this "public static cSharp" field final(İÏÖª
+B
+java:S14441",Make this "public static python" field final(¥Á÷
+D
+java:S14442")Make this "public static PHP" field final(âù˜äıÿÿÿÿ
+I
+java:S14443".Make this "public static subjects" field final(’â­¶ÿÿÿÿÿ
+M
+java:S1444R"2Make this "public static reportOfEmma" field final(ÿš‘ºøÿÿÿÿ
+H
+java:S1444S"2Make this "public static reportOfJack" field final(«»Ê˜
+P
+java:S1444T"5Make this "public static reportOfMichael" field final(Û¥Šîùÿÿÿÿ
+M
+java:S1444U"2Make this "public static reportOfLisa" field final(™‰ÙÎøÿÿÿÿ
+M
+java:S1444V"2Make this "public static reportOfJohn" field final(ïÒøùÿÿÿÿ
+i
+java:S30082"NRename this field "PHP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âù˜äıÿÿÿÿ
+C
+java:S3010"(Remove this assignment of "studentList".(êÁÓÎøÿÿÿÿ
+C
+java:S3010"(Remove this assignment of "teacherList".(¬àÖ¤üÿÿÿÿ
+:
+java:S3010"%Remove this assignment of "allUsers".(¸–§
+@
+java:S3010"%Remove this assignment of "subjects".(“Á°«úÿÿÿÿ
+:
+java:S3010"$Remove this assignment of "reports".(¿µƒœ
+>
+java:S2386"#Make member "subjects" "protected".(“Á°«úÿÿÿÿ
+L
+java:S2696Y"6Make the enclosing method "static" or remove this set.(åÿ¿ƒ
+L
+java:S2696_"6Make the enclosing method "static" or remove this set.(«Š§â
+Q
+java:S2696e"6Make the enclosing method "static" or remove this set.(®ËÏ„ùÿÿÿÿ
+K
+java:S2696k"6Make the enclosing method "static" or remove this set.(¿ŠÔ
+L
+java:S2696q"6Make the enclosing method "static" or remove this set.(ú¼Ñ
+i	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šëÆŠøÿÿÿÿ
